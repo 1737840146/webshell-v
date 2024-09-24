@@ -15,14 +15,13 @@
   "social": {
     "email": "your@email.com",
     "github": "https://github.com/1737840146/webshell-v/",
-    "linkedin": "you"
   },
   "aboutGreeting": "Hi stranger. Welcome to RYF's Web.",
   "projects": [
     [
-      "GofeR",
-      "Vue.js reactivity in Go.",
-      "https://github.com/nasan016/gofer"
+      "Uptime Status",
+      "网站监控",
+      "https://uptime.luer.eu.org/"
     ],
     [
       "WebShell",
