@@ -24,9 +24,59 @@
       "https://uptime.luer.eu.org/"
     ],
     [
-      "WebShell",
-      "Terminal styled website.",
-      "https://github.com/nasan016/webshell"
+      "GBlog",
+      "敲代码的",
+      "https://gblog.luciferryf.eu.org/"
+    ],
+    [
+      "HexoBlog",
+      "修电脑的",
+      "http://hexo-blog.luciferryf.eu.org/"
+    ],
+    [
+      "Qexo",
+      "Hexo管理",
+      "https://qexo.luciferryf.eu.org/"
+    ],
+    [
+      "Alist",
+      "网盘",
+      "https://alist.luer.eu.org/"
+    ],
+    [
+      "Email",
+      "临时邮箱",
+      "https://email.luer.eu.org/"
+    ],
+    [
+      "CFRss",
+      "RSS订阅",
+      "https://cfrss.luer.eu.org/"
+    ],
+    [
+      "RSS",
+      "RSS阅读",
+      "https://rss.luer.000.pe/"
+    ],
+    [
+      "RSShub",
+      "RSS订阅",
+      "https://rsshub.luer.eu.org/"
+    ],
+    [
+      "File;worker",
+      "文件中转",
+      "https://fileworker.luer.eu.org/"
+    ],
+    [
+      "LateRead",
+      "稍后阅读",
+      "https://wlab.luer.000.pe/"
+    ],
+    [
+      "Sink",
+      "短链",
+      "https://sink.luer.eu.org/"
     ]
   ],
   "colors": {
