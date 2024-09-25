@@ -81,6 +81,11 @@
       "Sink",
       "短链",
       "https://sink.luer.eu.org/"
+    ],
+    [
+      "Note",
+      "便签",
+      "https://note.luer.eu.org/"
     ]
   ],
   "colors": {
