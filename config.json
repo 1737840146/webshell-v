@@ -68,7 +68,7 @@
       "https://rsshub.luer.eu.org/"
     ],
     [
-      "File;worker",
+      "Sinkworker",
       "文件中转",
       "https://fileworker.luer.eu.org/"
     ],
@@ -86,7 +86,12 @@
       "Note",
       "便签",
       "https://note.luer.eu.org/"
-    ]
+    ],
+    [
+      "barrage",
+      "种子管理器",
+      "https://barrage.luer.eu.org/"
+    ],
   ],
   "colors": {
     "background": "#0C0623",
