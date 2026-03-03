@@ -35,12 +35,12 @@
     [
       "HexoBlog",
       "修电脑的",
-      "http://hexo-blog.luciferryf.eu.org/"
+      "http://hexo-blog.luer.eu.org/"
     ],
     [
       "Qexo",
       "Hexo管理",
-      "https://qexo.luciferryf.eu.org/"
+      "https://qexo.luer.eu.org/"
     ],
     [
       "Alist",
@@ -83,15 +83,15 @@
       "https://sink.luer.eu.org/"
     ],
     [
-      "Note",
-      "便签",
-      "https://note.luer.eu.org/"
-    ],
-    [
       "barrage",
       "种子管理器",
       "https://barrage.luer.eu.org/"
     ],
+    [
+      "wrdo",
+      "wrdo",
+      "https://wrdo.luer.eu.org/"
+    ]
   ],
   "colors": {
     "background": "#0C0623",
