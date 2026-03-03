@@ -25,9 +25,54 @@
       "https://uptime.luer.eu.org/"
     ],
     [
+      "wrdo",
+      "wrdo",
+      "https://wrdo.luer.eu.org/"
+    ],
+    [
+      "Sinkworker",
+      "文件中转",
+      "https://fileworker.luer.eu.org/"
+    ],
+    [
       "GBlog",
       "敲代码的",
       "https://gblog.luciferryf.eu.org/"
+    ],
+    [
+      "HexoBlog",
+      "修电脑的",
+      "http://hexo.luer.eu.org/"
+    ],
+    [
+      "Qexo",
+      "Hexo管理",
+      "https://qexo.luer.eu.org/"
+    ],
+    [
+      "Email",
+      "临时邮箱",
+      "https://email.luer.eu.org/"
+    ],
+    [
+      "CFRss",
+      "RSS订阅",
+      "https://cfrss.luer.eu.org/"
+    ],
+    [
+      "RSShub",
+      "RSS订阅",
+      "https://rsshub.luer.eu.org/"
+    ],
+    [
+      "Sink",
+      "短链",
+      "https://sink.luer.eu.org/"
+    ],
+    [
+      "barrage",
+      "种子管理器",
+      "https://barrage.luer.eu.org/"
     ]
   ],
   "colors": {
