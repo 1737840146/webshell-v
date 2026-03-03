@@ -1,14 +1,11 @@
 {
   "ascii": [
-    
-"██╗     ██╗   ██╗███████╗██████╗ ",
-"██║     ██║   ██║██╔════╝██╔══██╗",
-"██║     ██║   ██║█████╗  ██████╔╝",
-"██║     ██║   ██║██╔══╝  ██╔══██╗",
-"███████╗╚██████╔╝███████╗██║  ██║",
-"╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝",
-                                                               
-                                
+    "██╗     ██╗   ██╗███████╗██████╗ ",
+    "██║     ██║   ██║██╔════╝██╔══██╗",
+    "██║     ██║   ██║█████╗  ██████╔╝",
+    "██║     ██║   ██║██╔══╝  ██╔══██╗",
+    "███████╗╚██████╔╝███████╗██║  ██║",
+    "╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝"        
   ],
   "title": "RYF's Web",
   "username": "luer",
@@ -16,7 +13,7 @@
   "password": "sex736926334sex.",
   "repoLink": "https://github.com/nasan016/webshell",
   "social": {
-    "email": "your@email.com",
+    "email": "e@luer.eu.org",
     "github": "https://github.com/1737840146/webshell-v/",
     "linkedin": "you"
   },
@@ -31,66 +28,6 @@
       "GBlog",
       "敲代码的",
       "https://gblog.luciferryf.eu.org/"
-    ],
-    [
-      "HexoBlog",
-      "修电脑的",
-      "http://hexo-blog.luer.eu.org/"
-    ],
-    [
-      "Qexo",
-      "Hexo管理",
-      "https://qexo.luer.eu.org/"
-    ],
-    [
-      "Alist",
-      "网盘",
-      "https://alist.luer.eu.org/"
-    ],
-    [
-      "Email",
-      "临时邮箱",
-      "https://email.luer.eu.org/"
-    ],
-    [
-      "CFRss",
-      "RSS订阅",
-      "https://cfrss.luer.eu.org/"
-    ],
-    [
-      "RSS",
-      "RSS阅读",
-      "https://rss.luer.000.pe/"
-    ],
-    [
-      "RSShub",
-      "RSS订阅",
-      "https://rsshub.luer.eu.org/"
-    ],
-    [
-      "Sinkworker",
-      "文件中转",
-      "https://fileworker.luer.eu.org/"
-    ],
-    [
-      "LateRead",
-      "稍后阅读",
-      "https://wlab.luer.000.pe/"
-    ],
-    [
-      "Sink",
-      "短链",
-      "https://sink.luer.eu.org/"
-    ],
-    [
-      "barrage",
-      "种子管理器",
-      "https://barrage.luer.eu.org/"
-    ],
-    [
-      "wrdo",
-      "wrdo",
-      "https://wrdo.luer.eu.org/"
     ]
   ],
   "colors": {
